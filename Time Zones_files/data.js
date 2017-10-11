@@ -1,0 +1,1 @@
+var data = [[-7.0,"California","PDT UTC-7",true],[-4.0,"New York","EDT UTC-4",true],[-5.0,"Lima","PET UTC-5",true],[2.0,"Bonn","CEST UTC+2",true],[2.0,"Montpellier","CEST UTC+2",true],[2.0,"Freiburg","CEST UTC+2",true],[2.0,"Rome","CEST UTC+2",true],[3.0,"Addis Ababa","EAT UTC+3",true],[7.0,"Jakarta","WIB UTC+7.0",true]];
